@@ -1,4 +1,4 @@
-# Dropout_Regularization-
+# Dropout Regularization in Neural Networks
 Dropout in Deep Learning
 
 **What is dropout?**
